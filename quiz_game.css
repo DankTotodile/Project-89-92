@@ -1,0 +1,17 @@
+input
+{
+    height: 75px !important;
+    width: 300px !important;
+    text-align: center;
+}
+div
+{
+    margin: 30px;
+}
+body
+{
+    background-image: url('https://images.alphacoders.com/206/206871.jpg');
+    color: white;
+    font-family: Impact;
+
+}
